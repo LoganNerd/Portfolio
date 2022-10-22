@@ -1,0 +1,147 @@
+.header {
+  display: flex;  
+  padding-left: 20px;
+    background-color: rgb(10, 138, 138);
+    color: black;
+    border: 20px;
+    font-family: monospace;
+    align-items: center;
+}
+
+body{
+  background-image: url("https://img.freepik.com/free-vector/colourful-palm-trees-silhouettes-background_23-2148556841.jpg?w=2000");
+}
+
+.image{
+    border-radius: 20px;
+    height: 190px;
+    width:150px;
+    margin: 10px;
+  background-color: black;
+  justify-content: center;
+  padding-top: 15px;;
+
+}
+
+.paragraph{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.flexbox{
+  display: flex;
+  padding-top: 50px;
+}
+
+.headers{
+  display: flex;
+  justify-content: center;
+}
+.workHeader{
+  width: 200px;
+  height: 40px;
+  background-color: aqua;
+  border: 3px solid black;
+ }
+ .workHeader h2{
+  margin: 10px;
+ }
+
+.flexbox-2{
+  width: 600px;
+  height: 270px;
+  margin: 20px;
+  border: 3px solid black;
+  background-color: aqua;
+}
+.Work {
+  padding-top: 100px;
+  text-align: center;
+}
+.Work2{
+  padding-left: 100px;
+}
+.Work3{
+  padding-right: 100px;
+}
+.flexbox-3{
+  width: 500px;
+  height: 300px;
+  margin: 20px;
+  border: 3px solid black;
+  background-color: aqua;
+  padding: 10px;
+}
+.flexbox-4{
+  width: 500px;
+  height: 300px;
+  margin: 20px;
+  border: 3px solid black;
+  background-color: aqua;
+  padding:10px;
+}
+.flexbox-5{
+  width: 500px;
+  height: 300px;
+  margin: 20px;
+  border: 3px solid black;
+  background-color: aqua;
+  padding: 10px;
+}
+
+.lastBox{
+  display: flex;
+  padding-right: 100px;
+  padding-top: 40px;
+}
+.contact{
+  border: 3px solid black;
+  height: 200px;
+  width: 600px;
+  background-color: aqua;
+  margin: 20px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+    padding-left: 550px;
+  }
+  
+  nav a {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+
+  button {
+    text-align: center;
+    border: 20px;
+    background-color: black;
+    color: white;
+  }
+
+  .closer {
+    border: 20px;
+    padding-top: 400px;
+    padding-left: 445px;
+}
+  .flexbox-closer{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border: 3px solid black;
+    background-color: rgb(156, 209, 174);
+    width: 200px;
+    margin: 20px;
+    
+  }
+
