@@ -1,7 +1,7 @@
 # Portfolio
 Logan Juul's professional portfolio!
 
-Link:
+Link:https://logannerd.github.io/Portfolio/
 
 In this challenge we were given the task of creating a professional portfolio to share with prospective employers! Before I started I created a rough
 wire frame of what I wanted my portfolio to look like. Since I wanted the sections to be obvious, I changed my flexboxes a little to properly show functioning
