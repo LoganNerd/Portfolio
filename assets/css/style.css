@@ -14,12 +14,13 @@ body{
 
 .image{
     border-radius: 20px;
-    height: 190px;
-    width:150px;
+    height: 230px;
+    width:160px;
     margin: 10px;
   background-color: black;
   justify-content: center;
-  padding-top: 15px;;
+  padding-top: 8px;
+  align-items: center;
 
 }
 
